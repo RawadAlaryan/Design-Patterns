@@ -8,8 +8,8 @@ import creationalDesignPatterns.factoryMethodDesignPattern.animalFactory.Product
 //Concrete Animal Factory defines a Factory Method for creating different Animals (Duck, Tiger).
 public class Main {
     public static void main(String [] args) throws Exception {
-		System.out.println("Factory Method Design Pattern Animal Factory.");
-		System.out.println("Concrete Animal Factory defines a Factory Method for creating different Animals (Duck, Tiger).:\n");
+    	System.out.println("Factory Method Design Pattern Animal Factory.");
+    	System.out.println("Concrete Animal Factory defines a Factory Method for creating different Animals (Duck, Tiger).:\n");
 		
         AnimalFactoryInterface animalFactory = new ConcreteFactory();
 
@@ -19,8 +19,8 @@ public class Main {
         AnimalInterface tigerType = animalFactory.GetAnimalType("Tiger");
         tigerType.Speak();
 
-        //This will throw an exception.
-		//AnimalInterface lionType = animalFactory.GetAnimalType("Lion");
+        //This will throw an exception. We can not create a Lion animal type:
+        //AnimalInterface lionType = animalFactory.GetAnimalType("Lion");
         //lionType.Speak();	
     }
 }

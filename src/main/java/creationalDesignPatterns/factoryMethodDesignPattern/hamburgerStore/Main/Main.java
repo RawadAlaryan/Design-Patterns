@@ -33,5 +33,4 @@ public class Main {
         Hamburger cheeseHamburger = montrealBurgerStore.orderHamburger("Cheese Burger");
         System.out.println("\tOrder for " + cheeseHamburger.getType() + " is ready!\n" );
     }
-	
 }

@@ -37,6 +37,5 @@ public class Main {
         System.out.println("Placing an Order for a Crane:");
         Vehicle crane = heavyVehicleStore.orderVehicle(VehicleType.CRANE);
         System.out.println("\tOrder for " + ((Crane)crane).getType() + " is ready!\n" );
-    }
-	
+    }	
 }
