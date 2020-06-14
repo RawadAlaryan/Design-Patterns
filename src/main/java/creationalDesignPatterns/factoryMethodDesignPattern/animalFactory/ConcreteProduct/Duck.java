@@ -3,6 +3,8 @@ package creationalDesignPatterns.factoryMethodDesignPattern.animalFactory.Concre
 import creationalDesignPatterns.factoryMethodDesignPattern.animalFactory.Product.AnimalInterface;
 
 public class Duck implements AnimalInterface {
-    @Override
-    public void Speak(){ System.out.println("Duck says Pack-pack"); }
+	@Override
+	public void Speak() {
+		System.out.println("Duck says Pack-pack");
+	}
 }

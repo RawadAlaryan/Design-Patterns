@@ -3,8 +3,8 @@ package creationalDesignPatterns.factoryMethodDesignPattern.animalFactory.Concre
 import creationalDesignPatterns.factoryMethodDesignPattern.animalFactory.Product.AnimalInterface;
 
 public class Tiger implements AnimalInterface {
-    @Override
-    public void Speak() {
-        System.out.println("Tiger says Halum-Halum");
-    }
+	@Override
+	public void Speak() {
+		System.out.println("Tiger says Halum-Halum");
+	}
 }
