@@ -13,11 +13,10 @@ import creationalDesignPatterns.factoryMethodDesignPattern.vehicleStore.Product.
 //Factory Method Design Pattern Vehicle Store.
 //Vehicle Store defines a Factory Method for creating different vehicles (Bike, Car, Truck, Crane) in its Specialized-Stores (LightVeihcleStore, HeavyVehicleStore).
 public class Main {
-	
 	public static void main(String[] args) {
 		System.out.println("Factory Method Design Pattern Vehicle Store.");
 		System.out.println("Vehicle Store defines a Factory Method for creating different vehicles (Bike, Car, Truck, Crane) in its Specialized-Stores (LightVeihcleStore, HeavyVehicleStore):\n");
-        VehicleStore lightVehicleStore = new LightVehicleStore();
+		VehicleStore lightVehicleStore = new LightVehicleStore();
         System.out.println("The Light Vehicle Store is Ready for Orders!");
         VehicleStore heavyVehicleStore = new HeavyVehicleStore();
         System.out.println("The Heavy Vehicle Store is Ready for Orders!\n");

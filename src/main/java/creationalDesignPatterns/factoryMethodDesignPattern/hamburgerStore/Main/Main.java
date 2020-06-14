@@ -8,7 +8,6 @@ import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.Produc
 //Factory Method Design Pattern Hamburger Store.
 //Hamburger Store defines a Factory Method for creating different Hamburgers (Cheese, Veggie, TorontoStyle, MontrealStyle) in its Franchise-Stores (TorontoStore, MontrealStore).
 public class Main {
-	
 	public static void main(String[] args) {
 		System.out.println("Factory Method Design Pattern Hamburger Store.");
 		System.out.println("Hamburger Store defines a Factory Method for creating different Hamburgers (Cheese, Veggie, TorontoStyle, MontrealStyle) in its Franchise-Stores (TorontoStore, MontrealStore):\n");
