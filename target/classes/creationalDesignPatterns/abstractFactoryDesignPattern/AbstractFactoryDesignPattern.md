@@ -1,7 +1,4 @@
-package creationalDesignPatterns.abstractFactoryDesignPattern;
-
-/**
-Abstract Factory Design Pattern:
+### Abstract Factory Design Pattern:
 	It is a Creational Design Pattern. 
 	It creates an instance of several families of classes, by providing an interface for creating families of related or dependent objects without specifying their concrete classes.
 	A hierarchy that encapsulates: many possible "platforms", and the construction of a suite of "products".
@@ -12,22 +9,25 @@ Abstract Factory Design Pattern:
 	It is used when we want to provide a class library of products, where we reveal their interfaces not their implementations.
 	The "new "operator is considered harmful. It delegates the responsibility of object instantiation t another object via composition.
 	
-In AbstractFactory Design Pattern Class has the following	elements:
-		1. AbstractFactory.
-		2. ConcreteFactory.
-		3. AbstractProduct.
-		4. ConcreteProduct.
+	
+###  AbstractFactory Design Pattern Class has the following	elements:
+1. Abstract Factory.
+2. Concrete Factory.
+3. Abstract Product.
+4. Concrete Product.
 
-Advantages of Abstract Factory Design Pattern:
-	Isolates clients from concrete implementation classes.
-	Support a complete family of products.
-	Promotes consistency among products.
 
-Disadvantages of Abstract Factory Design Pattern:
-	Hard to support new kinds of products.
+### Advantages of Abstract Factory Design Pattern:
+- Isolates clients from concrete implementation classes.
+- Support a complete family of products.
+- Promotes consistency among products.
 
-Project:	Abstract Factory Design Pattern Manufacturing Toolkit.
-Project:	Abstract Factory Design Pattern Shapes and Colors.
-Project:	Abstract Factory Design Pattern Movie Production.
-*/
-public class AbstractFactoryDesignPattern {		}
+
+### Disadvantages of Abstract Factory Design Pattern:
+- Hard to support new kinds of products.
+
+
+#### Examples and Projects:
+- Project:	Abstract Factory Design Pattern Manufacturing Toolkit.
+- Project:	Abstract Factory Design Pattern Shapes and Colors.
+- Project:	Abstract Factory Design Pattern Movie Production.

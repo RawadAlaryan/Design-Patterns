@@ -10,7 +10,7 @@
 - It uses inheritance and relies on a subclass to handle the desired object instantiation.<br/>
 	
 			
-### In Factory Method Design Pattern, we have the following elements:
+### Factory Method Design Pattern, we have the following elements:
 1. Factory: Interface for creating an object. Also called the "Creator".
 2. Concrete SubFactory: also called the "Concrete Creator".
 3. Product.
@@ -31,14 +31,13 @@
 - Making too many objects can decrease performance.<br/>
 
 	
-#### Factory Method Design Pattern can be implemented in many techniques:
+### Factory Method Design Pattern can be implemented in many techniques:
 - [Factory Method Implementation with Abstract Creator.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/FactoryMethodImplementationWithAbstractCreator.java)		 	
 - [Factory Method Implementation with Concrete Creator.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/FactoryMethodImplementationWithConcreteCreator.java)										
 - [Factory Method Implementation with Static Method Creator.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/FactoryMethodImplementationWithStaticMethodCreator.java)								
 
 
-#### Examples and Projects:	
+### Examples and Projects:	
 - Project:	[The Hamburger Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/hamburgerStore/Main/Main.java)
 - Project:	[The Vehicle Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/vehicleStore/Main/Main.java)
 - Project:	[The Animal Factory.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/animalFactory/Main/Main.java)
-
