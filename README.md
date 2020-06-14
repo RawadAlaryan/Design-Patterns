@@ -62,8 +62,8 @@ In 1995, the "Gang of Four" Erich Gamma, Richard Helm, Ralph Johnson and John Vl
 These design patterns are all about class instantiation and object creation.<br/> 
 They abstract the instantiation process by encapsulating the concrete classes.<br/>
 Creational Design Patterns Types:
-- [Factory Method Design Pattern.](/src/main/java/creationalDesignPatterns/FactoryMethodDesignPattern.md)
-- [Abstract Factory Design Pattern.](/src/main/java/creationalDesignPatterns/AbstractFactoryDesignPattern.java)
+- [Factory Method Design Pattern.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/FactoryMethodDesignPattern.md)
+- [Abstract Factory Design Pattern.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/AbstractFactoryDesignPattern.md)
 - [Builder Design Pattern.](/src/main/java/creationalDesignPatterns/BuilderDesignPattern.java)													
 - [Prototype Design Pattern.](/src/main/java/creationalDesignPatterns/PrototypeDesignPattern.java)													
 - [Singleton Design Pattern.](/src/main/java/creationalDesignPatterns/SingletonDesignPattern.java)
