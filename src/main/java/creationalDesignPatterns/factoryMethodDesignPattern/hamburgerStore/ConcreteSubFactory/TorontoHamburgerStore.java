@@ -1,4 +1,4 @@
-package ConcreteSubFactory;
+package creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.ConcreteSubFactory;
 
 import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.ConcreteProduct.CheeseBurger;
 import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.ConcreteProduct.TorontoStyleBurger;

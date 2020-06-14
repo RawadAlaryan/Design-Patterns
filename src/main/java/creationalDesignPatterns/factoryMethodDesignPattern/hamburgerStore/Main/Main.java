@@ -1,7 +1,7 @@
 package creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.Main;
 
-import ConcreteSubFactory.TorontoHamburgerStore;
 import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.ConcreteSubFactory.MontrealHamburgerStore;
+import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.ConcreteSubFactory.TorontoHamburgerStore;
 import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.Factory.HamburgerStore;
 import creationalDesignPatterns.factoryMethodDesignPattern.hamburgerStore.Product.Hamburger;
 
