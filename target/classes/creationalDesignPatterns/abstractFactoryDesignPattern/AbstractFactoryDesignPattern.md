@@ -29,5 +29,5 @@
 
 #### Examples and Projects:
 - Project:	[The Manufacturing Toolkit.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectManufacturingToolkit/Main/Main.java)
-- Project:	Abstract Factory Design Pattern Shapes and Colors.
-- Project:	Abstract Factory Design Pattern Movie Production.
+- Project:	[The Shapes and Colors.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectShapesAndColors/Main/Main.java)
+- Project:	[The Movie Production.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectMovieProduction/Main/Main.java)
