@@ -28,6 +28,6 @@
 
 
 #### Examples and Projects:
-- Project:	[The Manufacturing Toolkit.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectManufacturingToolkit/Main/Main.java)
-- Project:	[The Shapes and Colors.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectShapesAndColors/Main/Main.java)
-- Project:	[The Movie Production.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectMovieProduction/Main/Main.java)
+- Project:	[Manufacturing Toolkit.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectManufacturingToolkit/Main/Main.java)
+- Project:	[Shapes and Colors.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectShapesAndColors/Main/Main.java)
+- Project:	[Movie Production.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectMovieProduction/Main/Main.java)

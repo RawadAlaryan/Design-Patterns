@@ -23,7 +23,7 @@
 
 
 #### Examples and Projects:
-- Project:	[The User Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectUserBuilder/Main/Main.java)
-- Project:	[The Pizza Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectPizzaBuilder/Main/Main.java)
-- Project:	[The Vehicle Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectVehicleBuilder/Main/Main.java)
-- Project:	[The Meal Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectMealBuilder/Main/Main.java)
+- Project:	[User Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectUserBuilder/Main/Main.java)
+- Project:	[Pizza Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectPizzaBuilder/Main/Main.java)
+- Project:	[Vehicle Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectVehicleBuilder/Main/Main.java)
+- Project:	[Meal Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectMealBuilder/Main/Main.java)

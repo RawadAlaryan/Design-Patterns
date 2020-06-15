@@ -29,7 +29,7 @@ Problems with the Cloneable Interface in Java:
 - Final fields can Not be modified in clone() method.
 - The Cloneable interface is only a marker interface; clone() method should be implemented from programmer.
 - Example of implementing the Cloneable Interface:
-<code>
+```java
 	public class Person implements Cloneable {
 		private String name;
 		private City city;	
@@ -39,7 +39,7 @@ Problems with the Cloneable Interface in Java:
 			return clonedPerson;			
 		}
 	}
-</code>	
+```	
 	
 	
 ### Cloning with Copy Constructor:
@@ -55,7 +55,7 @@ Advantages over Cloneable:
 - Provides deep cloning.
 - Serialization is slower than object.clone() method.
 - Example of implementing the Serialization Interface:
-<code> 	
+```java 	
  	public Person copy(Person originalPerson) {
  		try {
  			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("data.obj"));
@@ -65,10 +65,10 @@ Advantages over Cloneable:
  		}
  		catch (Exception e){ throw new RuntimeException(e); }
  	}
-</code> 	
+```	
 
 
 #### Examples and Projects:
-- Project:	[The Objects Cloning.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectObjectsCloning/Main/Main.java)
-- Project:	[The Shape Caching.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectShapeCaching/Main/Main.java)
-- Project:	[The Car Cloning.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectCarCloning/Main/Main.java)
+- Project:	[Objects Cloning.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectObjectsCloning/Main/Main.java)
+- Project:	[Shape Caching.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectShapeCaching/Main/Main.java)
+- Project:	[Car Cloning.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/projectCarCloning/Main/Main.java)

@@ -38,6 +38,6 @@
 
 
 ### Examples and Projects:	
-- Project:	[The Hamburger Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectHamburgerStore/Main/Main.java)
-- Project:	[The Vehicle Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectVehicleStore/Main/Main.java)
-- Project:	[The Animal Factory.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectAnimalFactory/Main/Main.java)
+- Project:	[Hamburger Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectHamburgerStore/Main/Main.java)
+- Project:	[Vehicle Store.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectVehicleStore/Main/Main.java)
+- Project:	[Animal Factory.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/projectAnimalFactory/Main/Main.java)
