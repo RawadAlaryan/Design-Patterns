@@ -7,7 +7,7 @@
 
 ### Builder Design Pattern Class has the following elements:
 1. Builder
-2. Client   
+2. Client as Main Method.  
 
 
 ### Advantages Builder Design Pattern:
@@ -23,7 +23,7 @@
 
 
 #### Examples and Projects:
-- Project:	[The User Builder.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectUserBuilder/Main/Main.java)
-- Project:	[The Pizza Builder.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectPizzaBuilder/Main/Main.java)
-- Project:	[The Vehicle Builder.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectVehicleBuilder/Main/Main.java)
-- Project:	[The Meal Builder.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectMealBuilder/Main/Main.java)
+- Project:	[The User Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectUserBuilder/Main/Main.java)
+- Project:	[The Pizza Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectPizzaBuilder/Main/Main.java)
+- Project:	[The Vehicle Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectVehicleBuilder/Main/Main.java)
+- Project:	[The Meal Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectMealBuilder/Main/Main.java)
