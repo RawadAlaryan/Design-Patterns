@@ -11,7 +11,7 @@
 ### Prototype Design Pattern has the following elements:
 1. Prototype: Interface for cloning.
 2. Concrete Prototype: Implements an operation for cloning.
-3. Client: Class who creates a new object by asking a prototype to clone itself.
+3. Client: Main Class who creates a new object by asking a prototype to clone itself.
 
 
 ### Advantages of Prototype Design Pattern:
@@ -35,7 +35,8 @@ Problems with the Cloneable Interface in Java:
 		private City city;	
 		public Person clone() throws CloneNotSupportedException {
 			Person clonedPerson = (Person) super.clone();
-			clonedPerson.city = this.city.clone();		//Making a Deep Copy of City.
+			//Making a Deep Copy of City.
+			clonedPerson.city = this.city.clone();		
 			return clonedPerson;			
 		}
 	}
