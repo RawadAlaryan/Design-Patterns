@@ -65,9 +65,9 @@ Creational Design Patterns Types:
 - [Factory Method Design Pattern.](/src/main/java/creationalDesignPatterns/factoryMethodDesignPattern/FactoryMethodDesignPattern.md)
 - [Abstract Factory Design Pattern.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/AbstractFactoryDesignPattern.md)
 - [Builder Design Pattern.](/src/main/java/creationalDesignPatterns/builderDesignPattern/BuilderDesignPattern.md)													
-- [Prototype Design Pattern.](/src/main/java/creationalDesignPatterns/PrototypeDesignPattern.java)													
-- [Singleton Design Pattern.](/src/main/java/creationalDesignPatterns/SingletonDesignPattern.java)
-- [Object Pool Design Pattern.](/src/main/java/creationalDesignPatterns/ObjectPoolDesignPattern.java)
+- [Prototype Design Pattern.](/src/main/java/creationalDesignPatterns/prototypeDesignPattern/PrototypeDesignPattern.md)													
+- [Singleton Design Pattern.](/src/main/java/creationalDesignPatterns/singletonDesignPattern/SingletonDesignPattern.md)
+- [Object Pool Design Pattern.](/src/main/java/creationalDesignPatterns/objectPoolDesignPattern/ObjectPoolDesignPattern.md)
 
 [Back To The Top](#Design-Patterns)
 
