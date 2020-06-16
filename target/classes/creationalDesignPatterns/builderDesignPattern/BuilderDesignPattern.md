@@ -22,7 +22,7 @@
 - Requires some amount of code duplication.
 
 
-#### Examples and Projects:
+### Examples and Projects:
 - Project:	[User Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectUserBuilder/Main/Main.java)
 - Project:	[Pizza Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectPizzaBuilder/Main/Main.java)
 - Project:	[Vehicle Builder.](/src/main/java/creationalDesignPatterns/builderDesignPattern/projectVehicleBuilder/Main/Main.java)

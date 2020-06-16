@@ -8,8 +8,8 @@
 		
 		
 ### Object Pool Design Pattern has the following elements:
-1. ReusableObject: A Class in use for a limited amount of time by Clients, then returned to ReusablePool.
-2. ReusablePool: A Class to manage Reusable-Objects for use by Client objects.
+1. Reusable Object: A Class in use for a limited amount of time by Clients, then returned to ReusablePool.
+2. Reusable Pool: A Class to manage Reusable-Objects for use by Client objects.
 3. Client: Main Class that uses Reusable-Objects.
 
 
@@ -19,5 +19,5 @@
 - Object pool pattern is used when the rate of initializing a instance of the class is high.
 
 
-#### Examples and Projects:
-- Project:	[JDBC ConnectionPool.](/src/main/java/creationalDesignPatterns/objectPoolDesignPattern/projectJDBCConnectionPool/Main/Main.java)
+### Examples and Projects:
+- Project:	[JDBC Connection Pool.](/src/main/java/creationalDesignPatterns/objectPoolDesignPattern/projectJDBCConnectionPool/Main/Main.java)

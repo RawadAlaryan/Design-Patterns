@@ -77,14 +77,15 @@ These design patterns are all about Class and Object composition and combination
 Structural class-creation patterns use inheritance to compose interfaces.<br/> 
 Structural object-patterns define ways to compose objects to obtain new functionality.<br/>
 Structural Design Patterns Types:<br/>
-- Adapter Design Pattern.
-- Bridge Design Pattern.
-- Composite Design Pattern.															
-- Decorator Design Pattern. 
-- Facade Design Pattern. 														
-- Flyweight Design Pattern.														
-- Private Class Data Design Pattern.
-- Proxy Design Pattern.			
+- [Adapter Design Pattern.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/AdapterDesignPattern.md)
+- [Bridge Design Pattern.](/src/main/java/structuralDesignPatterns/bridgeDesignPattern/BridgeDesignPattern.md)
+- [Composite Design Pattern.](/src/main/java/structuralDesignPatterns/compositeDesignPattern/CompositeDesignPattern.md)
+- [Decorator Design Pattern.](/src/main/java/structuralDesignPatterns/decoratorDesignPattern/DecoratorDesignPattern.md)															
+- [Facade Design Pattern.](/src/main/java/structuralDesignPatterns/facadeDesignPattern/FacadeDesignPattern.md) 
+- [Flyweight Design Pattern.](/src/main/java/structuralDesignPatterns/flyweightDesignPattern/FlyweightDesignPattern.md)
+- [Private Class Data Design Pattern.](/src/main/java/structuralDesignPatterns/privateClassDataDesignPattern/PrivateClassDataDesignPattern.md)
+- [Proxy Design Pattern.](/src/main/java/structuralDesignPatterns/proxyDesignPattern/ProxyDesignPattern.md)														
+			
 
 [Back To The Top](#Design-Patterns)
 		

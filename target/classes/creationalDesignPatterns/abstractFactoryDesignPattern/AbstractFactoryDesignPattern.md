@@ -27,7 +27,7 @@
 - Hard to support new kinds of products.
 
 
-#### Examples and Projects:
+### Examples and Projects:
 - Project:	[Manufacturing Toolkit.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectManufacturingToolkit/Main/Main.java)
 - Project:	[Shapes and Colors.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectShapesAndColors/Main/Main.java)
 - Project:	[Movie Production.](/src/main/java/creationalDesignPatterns/abstractFactoryDesignPattern/projectMovieProduction/Main/Main.java)
