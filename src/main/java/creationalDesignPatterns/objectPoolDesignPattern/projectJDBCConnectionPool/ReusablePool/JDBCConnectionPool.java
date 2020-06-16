@@ -1,0 +1,36 @@
+package creationalDesignPatterns.objectPoolDesignPattern.projectJDBCConnectionPool.ReusablePool;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class JDBCConnectionPool extends ObjectPool<Connection> {
+	private String dsn;			//Data Source Name.
+	private String usr; 				//Username.
+	private String pwd;			//Password.
+
+	public JDBCConnectionPool(String driver, String dsn, String usr, String pwd) {
+		super();
+		this.dsn = dsn;
+		this.usr = usr;
+		this.pwd = pwd;
+	}
+
+	@Override
+	protected Connection create() {
+		try { return (DriverManager.getConnection(dsn, usr, pwd)); } 
+		catch (SQLException sqle) { sqle.printStackTrace(); 	return (null); }
+	}
+
+	@Override
+	public void expire(Connection o) {
+		try { ((Connection) o).close(); } 
+		catch (SQLException sqle) { sqle.printStackTrace(); }
+	}
+
+	@Override
+	public boolean validate(Connection o) {
+		try { return (!((Connection) o).isClosed()); } 
+		catch (SQLException e) { e.printStackTrace();		return (false); }
+	}
+}

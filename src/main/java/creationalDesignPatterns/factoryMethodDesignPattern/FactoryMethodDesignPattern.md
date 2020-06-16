@@ -10,7 +10,7 @@
 - It uses inheritance and relies on a subclass to handle the desired object instantiation.
 	
 			
-### Factory Method Design Pattern, we have the following elements:
+### Factory Method Design Pattern has the following elements:
 1. Factory: Interface for creating an object. Also called the "Creator".
 2. Concrete SubFactory: also called the "Concrete Creator".
 3. Product.

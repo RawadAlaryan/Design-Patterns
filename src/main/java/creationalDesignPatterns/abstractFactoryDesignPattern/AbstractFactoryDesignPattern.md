@@ -10,7 +10,7 @@
 -	The "new "operator is considered harmful. It delegates the responsibility of object instantiation t another object via composition.
 	
 	
-###  AbstractFactory Design Pattern Class has the following	elements:
+###  AbstractFactory Design Pattern has the following elements:
 1. Abstract Factory.
 2. Concrete Factory.
 3. Abstract Product.

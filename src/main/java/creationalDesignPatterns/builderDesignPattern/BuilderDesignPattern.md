@@ -5,7 +5,7 @@
 - In Java JDK, The class StringBuilder uses the Builder Design Pattern.
 
 
-### Builder Design Pattern Class has the following elements:
+### Builder Design Pattern has the following elements:
 1. Builder
 2. Client as Main Method.  
 
