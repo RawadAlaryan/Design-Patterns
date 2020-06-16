@@ -25,7 +25,7 @@
 
 ### Examples and Projects:
 - Project:	[Shape Adapter.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/projectShapeAdapter/Main/Main.java)		
-- Project:	[Electric Socket Adapter.](/src/main/java/structuralDesignPatterns/adapterFactoryDesignPattern/projectElectricSocketAdapter/Main/Main.java)
-- Project:	[Inventory System.](/src/main/java/structuralDesignPatterns/adapterFactoryDesignPattern/projectInventorySystem/Main/Main.java)
-- Project:	[Area Calculator.](/src/main/java/structuralDesignPatterns/adapterFactoryDesignPattern/projectAreaCalculator/Main/Main.java)
-- Project:	[Integer Value.](/src/main/java/structuralDesignPatterns/adapterFactoryDesignPattern/projectIntegerValue/Main/Main.java)
+- Project:	[Electric Socket Adapter.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/projectElectricSocketAdapter/Main/Main.java)
+- Project:	[Inventory System.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/projectInventorySystem/Main/Main.java)
+- Project:	[Area Calculator.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/projectAreaCalculator/Main/Main.java)
+- Project:	[Integer Value.](/src/main/java/structuralDesignPatterns/adapterDesignPattern/projectIntegerValue/Main/Main.java)
