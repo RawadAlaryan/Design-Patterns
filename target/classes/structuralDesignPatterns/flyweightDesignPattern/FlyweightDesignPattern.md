@@ -11,15 +11,15 @@
 - In Java JDK; valueOf() method uses cached objects. Java String Pool class also uses Flyweight Deign Pattern. 
 	
 	
-### Intrinsic State vs Extrinsic State: 
-- Intrinsic State/Properties: Data and properties are stored in the Flyweight object and they are sharable.
-- Extrinsic State/Properties: Data and properties depend on the Flyweight object's context and they are not sharable.
-
-		
 ### Flyweight Design Pattern has the following elements:
 1. Flyweight Factory: Interface through which flyweight objects can be handled.
 2. Concrete Flyweight: Classes that implement the Flyweight interface. They are sharable.
 3. Client: The Main Class that uses the design.
+
+
+### Intrinsic State vs Extrinsic State: 
+- Intrinsic State/Properties: Data and properties are stored in the Flyweight object and they are sharable.
+- Extrinsic State/Properties: Data and properties depend on the Flyweight object's context and they are not sharable.
 
 
 ### Advantages of Flyweight Design Pattern:
