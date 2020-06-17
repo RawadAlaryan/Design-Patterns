@@ -101,12 +101,12 @@ Behavioral Design Patterns Types:<br/>
 - [Iterator Design Pattern.](/src/main/java/behavioralDesignPatterns/iteratorDesignPattern/IteratorDesignPattern.md)
 - [Mediator Design Pattern.](/src/main/java/behavioralDesignPatterns/mediatorDesignPattern/MediatorDesignPattern.md)										
 - [Memento Design Pattern.](/src/main/java/behavioralDesignPatterns/mementoDesignPattern/MementoDesignPattern.md)													
+- [Null Object Method Design Pattern.](/src/main/java/behavioralDesignPatterns/nullObjectDesignPattern/NullObjectDesignPattern.md)
 - [Observer Design Pattern.](/src/main/java/behavioralDesignPatterns/observerDesignPattern/ObserverDesignPattern.md)																		
 - [State Design Pattern.](/src/main/java/behavioralDesignPatterns/stateDesignPattern/StateDesignPattern.md) 
 - [Strategy Design Pattern.](/src/main/java/behavioralDesignPatterns/strategyDesignPattern/StrategyDesignPattern.md)						 
 - [Template Method Design Pattern.](/src/main/java/behavioralDesignPatterns/templateMethodDesignPattern/TemplateMethodDesignPattern.md) 
 - [Visitor Method Design Pattern.](/src/main/java/behavioralDesignPatterns/visitorDesignPattern/VisitorDesignPattern.md) 							
-- [Null Object Method Design Pattern.](/src/main/java/behavioralDesignPatterns/nullObjectDesignPattern/NullObjectDesignPattern.md)			
 
 [Back To The Top](#Design-Patterns)				
 

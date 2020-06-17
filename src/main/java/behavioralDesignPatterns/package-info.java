@@ -7,12 +7,13 @@ Behavioral Design Patterns In Java.
 	Iterator Design Pattern.
 	Mediator Design Pattern.
 	Memento Design Pattern.
+	Null Object Design Pattern.
 	Observer Design Pattern.
 	State Design Pattern.
 	Strategy Design Pattern.
 	Template Method Design Pattern.
 	Visitor Design Pattern.
-	Null Object Design Pattern.
+	
 	
 @since 1.0
 @author Rawad Alaryan
