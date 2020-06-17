@@ -9,9 +9,9 @@
 
 		
 ### Prototype Design Pattern has the following elements:
-1. Prototype: Interface for cloning.
-2. Concrete Prototype: Implements an operation for cloning.
-3. Client: Main Class who creates a new object by asking a prototype to clone itself.
+1. <b>Prototype:</b> Interface for cloning.
+2. <b>Concrete Prototype:</b> Implements an operation for cloning.
+3. <b>Client:</b> Main Class who creates a new object by asking a prototype to clone itself.
 
 
 ### Advantages of Prototype Design Pattern:

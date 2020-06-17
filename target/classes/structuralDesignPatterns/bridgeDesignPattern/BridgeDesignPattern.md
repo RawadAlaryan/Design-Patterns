@@ -11,8 +11,8 @@
 
 											
 ### Bridge Design Pattern has the following elements:
-1. Abstraction: It is the core of Bridge and defines the crux. It contains a reference to the implementer.
-2. Implementation: Provides an implementation in terms of operations provided by the implemented interface.
+1. <b>Abstraction:</b> It is the core of Bridge and defines the crux. It contains a reference to the implementer.
+2. <b>Implementation:</b> Provides an implementation in terms of operations provided by the implemented interface.
 
 
 ### Advantages of Bridge Design Pattern:

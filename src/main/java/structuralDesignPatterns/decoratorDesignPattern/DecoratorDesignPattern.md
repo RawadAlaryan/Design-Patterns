@@ -10,10 +10,10 @@
 
 	
 ### Decorator Design Pattern has the following elements:
-1. Decorator.
-2. Concrete Decorator.
-3. Component.
-4. Concrete Component.
+1. <b>Decorator.</b>
+2. <b>Concrete Decorator.</b>
+3. <b>Component.</b>
+4. <b>Concrete Component.</b>
 
 		
 ### Advantages of Decorator Design Pattern:

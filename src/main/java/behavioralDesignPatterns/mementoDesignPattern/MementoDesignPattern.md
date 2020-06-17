@@ -7,9 +7,9 @@
 	
 	
 ### Memento Design Pattern, we have the following elements:
-1. Memento:		Interface for keeping a state for the Originator for future undoing.
-2. Originator:		Class for which we need a Memento. Originator's state is stored and restored.
-3. Care Taker:		Class that holds the Memento objects for different states of the Originator. It is responsible for storing and restoring the Originator's state through the Memento.
+1. <b>Memento:</b>	Interface for keeping a state for the Originator for future undoing.
+2. <b>Originator:</b>			Class for which we need a Memento. Originator's state is stored and restored.
+3. <b>Care Taker:</b>		Class that holds the Memento objects for different states of the Originator. It is responsible for storing and restoring the Originator's state through the Memento.
 
 
 

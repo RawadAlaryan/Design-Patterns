@@ -9,10 +9,10 @@
 	
 	
 ### Mediator Design Pattern, we have the following elements:
-1. Mediator: Interface or an abstract class defining the contract for communication among clients.
-2. Concrete Mediator: Class that implements the Mediator contract; it is aware of all colleagues and their inter-communications. Communications among colleagues happen only through a Mediator.
-3. Colleague: Interface or an abstract class representing components of our system that communicate via a Mediator.
-4. Concrete Colleague: Classes that implement the Colleague interface and are willing to interact with one another.
+1. <b>Mediator:</b> Interface or an abstract class defining the contract for communication among clients.
+2. <b>Concrete Mediator:</b> Class that implements the Mediator contract; it is aware of all colleagues and their inter-communications. Communications among colleagues happen only through a Mediator.
+3. <b>Colleague:</b> Interface or an abstract class representing components of our system that communicate via a Mediator.
+4. <b>Concrete Colleague:</b> Classes that implement the Colleague interface and are willing to interact with one another.
 
 
 ### Advantages of Mediator Design Pattern:

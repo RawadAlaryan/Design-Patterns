@@ -6,8 +6,8 @@
 
 	
 ### Private Class Data Design Pattern has the following elements:
-1. MainClass.
-2. DataClass.
+1. <b>MainClass.</b>
+2. <b>DataClass.</b>
 
 
 ### Examples and Projects:

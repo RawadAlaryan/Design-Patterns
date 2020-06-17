@@ -10,9 +10,9 @@
 
 		
 ### Chain Of Responsibility Design Pattern has the following elements:
-1. Client: Main Class code making user requests.
-2. Handler: Abstract superclass or an interface defining the request handler method.
-3. ConcreteHandler: Class implementation for the Handler.
+1. <b>Client:</b> Main Class code making user requests.
+2. <b>Handler:</b> Abstract superclass or an interface defining the request handler method.
+3. <b>Concrete Handler:</b> Class implementation for the Handler.
 
 
 ### Advantages of Chain Of Responsibility Design Pattern:

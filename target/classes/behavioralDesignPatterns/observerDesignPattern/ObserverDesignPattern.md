@@ -9,10 +9,10 @@
 	
 
 ### Observer Design Pattern has the following elements:
-1. Subject: Also called "Provider". It maintains a list of observers, provides methods to register/unregister observers. Also, has a notifyAll() method to notify all registered observers of any state change.
-2. Concrete Subject: A class extending the functionality of the Subject class, it holds a state object representing its current state. It is an immutable state object to prevent any unintentional updates by the observer.
-3. Observer: Also called "Observer". An Interface with an update() method which is invoked by the Subject to notify the observer of any changes in its current state.
-4. Concrete Observer: Classes implementing the Observer interface, the observer objects register themselves to listen to a Subject.
+1. <b>Subject:</b> Also called "Provider". It maintains a list of observers, provides methods to register, unregister and notify observers of any state change.
+2. <b>Concrete Subject:</b> A class extending the functionality of the Subject class, it holds a state object representing its current state. It is an immutable state object to prevent any unintentional updates by the observer.
+3. <b>Observer:</b> Also called "Observer". An Interface with an update() method which is invoked by the Subject to notify the observer of any changes in its current state.
+4. <b>Concrete Observer:</b> Classes implementing the Observer interface, the observer objects register themselves to listen to a Subject.
 
 
 ### Mediator Design Pattern vs Observer Design Pattern:

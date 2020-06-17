@@ -7,9 +7,9 @@
 	
 	
 ### Composite Design Pattern has the following elements:
-1. Component: Interface or an Abstract class which is a super-type for all set of classes.
-2. Composite: Class that defines a concrete implementation of Component and holds instances of other child components.
-3. Leaf: A leaf represents a non-composite type i.e. it isn’t composed of other components.
+1. <b>Component:</b> Interface or an Abstract class which is a super-type for all set of classes.
+2. <b>Composite:</b> Class that defines a concrete implementation of Component and holds instances of other child components.
+3. <b>Leaf:</b> A leaf represents a non-composite type i.e. it isn’t composed of other components.
 
 
 ### Advantages of Composite Design Pattern:

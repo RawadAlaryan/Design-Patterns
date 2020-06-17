@@ -8,9 +8,9 @@
 	
 	
 ### Iterator Design Pattern has the following elements:
-1. Iterator: (Interface and Concrete) for accessing and traversing elements.
-2. Aggregate or Container: (Interface and Concrete) defines an interface for creating an iterator object.
-3. Client: The Main class that uses the iterator object. 
+1. <b>Iterator:</b> (Interface and Concrete) for accessing and traversing elements.
+2. <b>Aggregate or Container:</b> (Interface and Concrete) defines an interface for creating an iterator object.
+3. <b>Client:</b> The Main class that uses the iterator object. 
 
 
 ### Examples and Projects:

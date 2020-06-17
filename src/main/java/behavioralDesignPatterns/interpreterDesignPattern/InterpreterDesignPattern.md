@@ -8,12 +8,12 @@
 
 	
 ### Interpreter Design Pattern has the following elements:
-1. Interpreter.
-2. AbstractExpression: Declares an abstract interpret operation.
-3. TerminalExpression: Implements an interpret operation associated with terminal symbols in the grammar.
-4. NonterminalExpression: A class is required for every rule in the grammar. Implements an interpret operation for non-terminal symbols in the grammar.
-5. Context: Contains information that is global to the interpreter.
-6. Client. Builds an abstract syntax tree representing a particular sentence. Client invokes the interpret operation.
+1. <b>Interpreter.</b>
+2. <b>AbstractExpression:</b> Declares an abstract interpret operation.
+3. <b>TerminalExpression:</b> Implements an interpret operation associated with terminal symbols in the grammar.
+4. <b>NonterminalExpression:</b> A class is required for every rule in the grammar. Implements an interpret operation for non-terminal symbols in the grammar.
+5. <b>Context:</b> Contains information that is global to the interpreter.
+6. <b>Client:</b> Builds an abstract syntax tree representing a particular sentence. Client invokes the interpret operation.
 
 
 ### Advantages of Interpreter Design Pattern:

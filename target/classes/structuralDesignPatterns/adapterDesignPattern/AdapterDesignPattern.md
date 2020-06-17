@@ -10,10 +10,10 @@
 
 										
 ### Adapter Design Pattern has the following elements:
-1. Client or Target: A Main Class that wants to use the Adaptee from third-party library or the external system.
-2. Adaptee: A Class in the third-party library or the external system that we want to use.
-3. Adapter Interface: Also known as "Target Interface". It is an Interface desired by the Client to use.
-4. Adapter Concrete: A Class sits between the Client and the Adaptee and implements the Target Interface.
+1. <b>Client or Target:</b> A Main Class that wants to use the Adaptee from third-party library or the external system.
+2. <b>Adaptee:</b> A Class in the third-party library or the external system that we want to use.
+3. <b>Adapter Interface:</b> Also known as "Target Interface". It is an Interface desired by the Client to use.
+4. <b>Adapter Concrete:</b> A Class sits between the Client and the Adaptee and implements the Target Interface.
 
 
 ### Adapter Design Pattern can be implemented using two techniques:

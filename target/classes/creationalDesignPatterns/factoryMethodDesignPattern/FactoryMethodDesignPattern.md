@@ -11,10 +11,10 @@
 	
 			
 ### Factory Method Design Pattern has the following elements:
-1. Factory: Interface for creating an object. Also called the "Creator".
-2. Concrete SubFactory: also called the "Concrete Creator".
-3. Product.
-4. Concrete Product.
+1. <b>Factory:</b> Interface for creating an object. Also called the "Creator".
+2. <b>Concrete SubFactory:</b> also called the "Concrete Creator".
+3. <b>Product.</b>
+4. <b>Concrete Product.</b>
 
 
 ### Advantages of Factory Method Design Pattern:

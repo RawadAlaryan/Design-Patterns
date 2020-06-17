@@ -12,9 +12,9 @@
 	
 	
 ### Flyweight Design Pattern has the following elements:
-1. Flyweight Factory: Interface through which flyweight objects can be handled.
-2. Concrete Flyweight: Classes that implement the Flyweight interface. They are sharable.
-3. Client: The Main Class that uses the design.
+1. <b>Flyweight Factory:</b> Interface through which flyweight objects can be handled.
+2. <b>Concrete Flyweight:</b> Classes that implement the Flyweight interface. They are sharable.
+3. <b>Client:</b> The Main Class that uses the design.
 
 
 ### Intrinsic State vs Extrinsic State: 

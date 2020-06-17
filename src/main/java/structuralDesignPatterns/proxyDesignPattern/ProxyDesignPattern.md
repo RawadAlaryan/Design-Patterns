@@ -8,10 +8,10 @@
 
 
 ### Proxy Design Pattern has the following elements:
-1. Subject: Interface defining the contract for the real subject.
-2. Real Subject: Class we want to have a proxy for.
-3. Proxy: Proxy class for the real subject. Both Proxy and RealSubject classes implement the Subject interface.
-4. Client: Class that interacts with the proxy via the Subject interface.
+1. <b>Subject:</b> Interface defining the contract for the real subject.
+2. <b>Real Subject:</b> Class we want to have a proxy for.
+3. <b>Proxy:</b> Proxy class for the real subject. Both Proxy and RealSubject classes implement the Subject interface.
+4. <b>Client:</b> Class that interacts with the proxy via the Subject interface.
 
 	
 ### Proxy Variations:

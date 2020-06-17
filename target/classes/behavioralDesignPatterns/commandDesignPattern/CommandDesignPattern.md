@@ -14,10 +14,10 @@
 	
 	
 ### Command Design Pattern has the following elements:
-1. Command: Abstract class defining operations for Commands. It sits between the sender and the receiver objects. Sender creates a Command that calls the Receiver. 
-2. Concrete Command: Classes that hold the actual implementation for a specific Command.
-3. Invoker: Class exposed to the client. It invokes the appropriate Command to complete a task.
-4. Receiver: It is invoked by a Command to perform the requested operation.   
+1. <b>Command:</b> Abstract class defining operations for Commands. It sits between the sender and the receiver objects. Sender creates a Command that calls the Receiver. 
+2. <b>Concrete Command:</b> Classes that hold the actual implementation for a specific Command.
+3. <b>Invoker:</b> Class exposed to the client. It invokes the appropriate Command to complete a task.
+4. <b>Receiver:</b> It is invoked by a Command to perform the requested operation.   
 We can also have a Command Manager which keeps track of commands, invokes and manipulates them.
 
 

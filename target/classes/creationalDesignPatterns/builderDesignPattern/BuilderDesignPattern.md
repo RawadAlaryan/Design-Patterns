@@ -6,8 +6,8 @@
 
 
 ### Builder Design Pattern has the following elements:
-1. Builder
-2. Client as Main Method.  
+1. <b>Builder.</b>
+2. <b>Client as Main Method.</b>  
 
 
 ### Advantages Builder Design Pattern:

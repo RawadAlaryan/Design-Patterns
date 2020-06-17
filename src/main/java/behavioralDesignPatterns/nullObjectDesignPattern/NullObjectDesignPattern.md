@@ -5,10 +5,10 @@
 	
 	
 ### Null Object Design Pattern has the following elements:
-1. Client: Main class that uses the design.
-2. Abstract Object: It declares the interface for Client's collaborator.
-3. Real Object: A concrete subclass of AbstractObject whose instances provide useful behavior that Client expects.
-4. NullObject: It provides an interface identical to AbstractObject's so that a null object can be substituted for a real object.
+1. <b>Client:</b> Main class that uses the design.
+2. <b>Abstract Object:</b> It declares the interface for Client's collaborator.
+3. <b>Real Object:</b> A concrete subclass of AbstractObject whose instances provide useful behavior that Client expects.
+4. <b>NullObject:</b> It provides an interface identical to AbstractObject's so that a null object can be substituted for a real object.
 
 
 ### Examples and Projects:

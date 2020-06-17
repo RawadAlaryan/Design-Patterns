@@ -9,8 +9,8 @@
 											
 										
 ### Facade Design Pattern has the following elements:
-1. Facade.
-2. Subsystem.
+1. <b>Facade.</b>
+2. <b>Subsystem.</b>
 
 
 ### Facade Design Pattern vs Adapter Design Pattern:

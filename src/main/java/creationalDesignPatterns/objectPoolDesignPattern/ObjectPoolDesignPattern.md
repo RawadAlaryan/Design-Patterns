@@ -8,9 +8,9 @@
 		
 		
 ### Object Pool Design Pattern has the following elements:
-1. Reusable Object: A Class in use for a limited amount of time by Clients, then returned to ReusablePool.
-2. Reusable Pool: A Class to manage Reusable-Objects for use by Client objects.
-3. Client: Main Class that uses Reusable-Objects.
+1. <b>Reusable Object:</b> A Class in use for a limited amount of time by Clients, then returned to ReusablePool.
+2. <b>Reusable Pool:</b> A Class to manage Reusable-Objects for use by Client objects.
+3. <b>Client:</b> Main Class that uses Reusable-Objects.
 
 
 ### Object Pool Design Pattern Advantages:

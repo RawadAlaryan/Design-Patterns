@@ -8,9 +8,9 @@
 
 
 ### Singleton Design Pattern Class has the following	elements:
-1. Static Member: A variable to hold the instance of the class itself.
-2. Private Constructor: It prevents another instance to be created from outside.
-3. Public Static Instance-Getter Method: It returns the only instance of the class.
+1. <b>Static Member:</b> A variable to hold the instance of the class itself.
+2. <b>Private Constructor:</b> It prevents another instance to be created from outside.
+3. <b>Public Static Instance-Getter Method:</b> It returns the only instance of the class.
 
 
 ### Advantages Singleton Design Pattern:
