@@ -8,9 +8,9 @@
 	<properties>
 		<maven.compiler.source>12</maven.compiler.source>
 		<maven.compiler.target>12</maven.compiler.target>
-	    <project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>Cp1252</project.reporting.outputEncoding>
-    </properties>
+		<project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>Cp1252</project.reporting.outputEncoding>
+	</properties>
 	<build>
 		<plugins>
 			<plugin>
